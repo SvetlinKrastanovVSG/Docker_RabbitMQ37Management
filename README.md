@@ -1,0 +1,1 @@
+# Docker_RabbitMQ37Management
